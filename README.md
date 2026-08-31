@@ -363,6 +363,12 @@ Trabalho prático desenvolvido com **JavaScript**, colocando em prática conceit
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/TiagoBorba013/TiagoBorba013/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%">
+
+</div>
+
+<div align="center">
+
 <picture>
 
   <source
