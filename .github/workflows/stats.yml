@@ -1,8 +1,8 @@
-name: Generate GitHub Stats
+name: Update README Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 3 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -12,15 +12,15 @@ permissions:
   contents: write
 
 jobs:
-  stats:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Generate GitHub Stats
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=TiagoBorba013&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=7c3aed&text_color=ffffff
@@ -28,7 +28,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Top Languages
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=TiagoBorba013&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&text_color=ffffff
@@ -37,11 +37,11 @@ jobs:
 
       - name: Commit generated cards
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add profile/*.svg
 
-          git commit -m "Update GitHub stats cards" || exit 0
+          git commit -m "Update README stats" || exit 0
 
           git push
