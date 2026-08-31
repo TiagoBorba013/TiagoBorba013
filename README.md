@@ -1,6 +1,4 @@
-Agora entendi 100% 😅. **Um único bloco**, do `# ⚡ SYSTEM ONLINE` até o final, sem eu interromper no meio. O conteúdo abaixo parte do arquivo que você enviou e mantém a estrutura dele. 
 
-**Copie tudo dentro deste bloco e cole no `README.md`:**
 
 ````markdown
 # ⚡ SYSTEM ONLINE // TIAGO SOUSA DE BORBA
