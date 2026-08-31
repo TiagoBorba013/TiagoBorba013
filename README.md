@@ -288,19 +288,17 @@ Trabalho prático desenvolvido com **JavaScript**, colocando em prática conceit
 
 <div align="center">
 
-<a href="https://github.com/TiagoBorba013">
 <img
-  src="https://github-readme-stats.vercel.app/api?username=TiagoBorba013&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=7C3AED&text_color=FFFFFF"
+  height="180"
+  src="./profile/stats.svg"
   alt="GitHub Stats"
 />
-</a>
 
-<a href="https://github.com/TiagoBorba013">
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoBorba013&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00E5FF&text_color=FFFFFF"
+  height="180"
+  src="./profile/top-langs.svg"
   alt="Top Languages"
 />
-</a>
 
 <br><br>
 
