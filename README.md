@@ -310,7 +310,7 @@ Trabalho prático desenvolvido com **JavaScript**, colocando em prática conceit
 />
 
 </div>
----
+
 
 ## `09 // CONTRIBUTION ACTIVITY`
 
