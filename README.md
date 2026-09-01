@@ -372,7 +372,7 @@ Trabalho prático desenvolvido com <strong>JavaScript</strong>, colocando em pr�
 
 <br><br>
 
-
+<pre>
 ╔════════════════════════════════════════════════════════════╗
 ║                    ACHIEVEMENT SYSTEM                     ║
 ╠════════════════════════════════════════════════════════════╣
@@ -389,6 +389,8 @@ Trabalho prático desenvolvido com <strong>JavaScript</strong>, colocando em pr�
 ║  ✓ ALWAYS LEARNING                                        ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
+</pre>
+
 </div>
 
 ---
