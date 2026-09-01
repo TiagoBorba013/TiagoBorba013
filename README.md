@@ -170,7 +170,12 @@ developer:
 ### 🌐 FRONT-END LAB
 
 <a href="https://github.com/TiagoBorba013/Exercicio-1-web-front-end">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoBorba013&repo=Exercicio-1-web-front-end&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=7c3aed" alt="Exercicio 1 Web Front End"/>
+
+<img
+  src="./profile/project-exercicio-1-web-front-end.svg"
+  alt="Exercicio 1 Web Front End"
+/>
+
 </a>
 
 <br>
@@ -184,7 +189,12 @@ Projeto desenvolvido durante os estudos de desenvolvimento Web Front-End.
 ### ⚡ ATIVIDADE FRONT-END
 
 <a href="https://github.com/TiagoBorba013/Atividade-2-fronte-end">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoBorba013&repo=Atividade-2-fronte-end&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=7c3aed" alt="Atividade 2 Front End"/>
+
+<img
+  src="./profile/project-atividade-2-fronte-end.svg"
+  alt="Atividade 2 Front End"
+/>
+
 </a>
 
 <br>
@@ -202,7 +212,12 @@ Projeto acadêmico voltado para prática de desenvolvimento Front-End.
 ### 🧪 FRONT-END LAB 04
 
 <a href="https://github.com/TiagoBorba013/Atividae-semna-4-front-end">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoBorba013&repo=Atividae-semna-4-front-end&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=7c3aed" alt="Atividade Semana 4 Front End"/>
+
+<img
+  src="./profile/project-atividade-semana-4.svg"
+  alt="Atividade Semana 4 Front End"
+/>
+
 </a>
 
 <br>
@@ -216,7 +231,12 @@ Atividade prática desenvolvida durante a evolução dos conhecimentos em Front-
 ### 🚀 SPRINT 01 — TI
 
 <a href="https://github.com/TiagoBorba013/Sprint-1-TI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoBorba013&repo=Sprint-1-TI&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=7c3aed" alt="Sprint 1 TI"/>
+
+<img
+  src="./profile/project-sprint-1-ti.svg"
+  alt="Sprint 1 TI"
+/>
+
 </a>
 
 <br>
@@ -234,12 +254,17 @@ Projeto desenvolvido no contexto acadêmico de Tecnologia da Informação.
 ### 🎲 MY BINGO MIXER
 
 <a href="https://github.com/TiagoBorba013/my-bingo-mixer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoBorba013&repo=my-bingo-mixer&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=7c3aed" alt="My Bingo Mixer"/>
+
+<img
+  src="./profile/project-my-bingo-mixer.svg"
+  alt="My Bingo Mixer"
+/>
+
 </a>
 
 <br>
 
-Projeto desenvolvido utilizando **TypeScript**, explorando novas possibilidades além da base inicial.
+Projeto desenvolvido utilizando <strong>TypeScript</strong>, explorando novas possibilidades além da base inicial.
 
 </td>
 
@@ -248,12 +273,17 @@ Projeto desenvolvido utilizando **TypeScript**, explorando novas possibilidades 
 ### 📊 TRABALHO PRÁTICO — DIW
 
 <a href="https://github.com/TiagoBorba013/Trabalho-Pr-tico-DIW">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoBorba013&repo=Trabalho-Pr-tico-DIW&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=7c3aed" alt="Trabalho Prático DIW"/>
+
+<img
+  src="./profile/project-trabalho-pratico-diw.svg"
+  alt="Trabalho Prático DIW"
+/>
+
 </a>
 
 <br>
 
-Trabalho prático desenvolvido com **JavaScript**, colocando em prática conceitos de desenvolvimento web.
+Trabalho prático desenvolvido com <strong>JavaScript</strong>, colocando em prática conceitos de desenvolvimento web.
 
 </td>
 
@@ -262,7 +292,6 @@ Trabalho prático desenvolvido com **JavaScript**, colocando em prática conceit
 
 </div>
 
----
 
 ## `07 // CURRENT OBJECTIVES`
 
@@ -282,7 +311,6 @@ Trabalho prático desenvolvido com **JavaScript**, colocando em prática conceit
 > SYSTEM_STATUS: ALWAYS_LEARNING
 ```
 
----
 
 ## `08 // GITHUB ANALYTICS`
 
@@ -315,14 +343,13 @@ Trabalho prático desenvolvido com **JavaScript**, colocando em prática conceit
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=TiagoBorba013&bg_color=050505&color=00e5ff&line=7c3aed&point=ffffff&area_color=050505&area=true&hide_border=true&custom_title=TIAGO%20SOUSA%20DE%20BORBA%20%E2%80%94%20ACTIVITY%20MATRIX"
+  src="./profile/activity-graph.svg"
   width="95%"
   alt="GitHub Activity Graph"
 />
 
 </div>
 
----
 
 ## `10 // ACHIEVEMENT SYSTEM`
 
