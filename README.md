@@ -355,32 +355,40 @@ Trabalho prático desenvolvido com <strong>JavaScript</strong>, colocando em pr�
 
 <div align="center">
 
-<img src="https://img.shields.io/github/stars/TiagoBorba013?style=for-the-badge&logo=github&label=TOTAL%20STARS&color=7C3AED" alt="GitHub Stars"/>
+<img
+  src="https://img.shields.io/github/stars/TiagoBorba013?style=for-the-badge&logo=github&label=TOTAL%20STARS&color=7C3AED"
+  alt="GitHub Stars"
+/>
 
-<img src="https://img.shields.io/github/followers/TiagoBorba013?style=for-the-badge&logo=github&label=FOLLOWERS&color=00E5FF" alt="GitHub Followers"/>
+<img
+  src="https://img.shields.io/github/followers/TiagoBorba013?style=for-the-badge&logo=github&label=FOLLOWERS&color=00E5FF"
+  alt="GitHub Followers"
+/>
 
-<img src="https://img.shields.io/github/commit-activity/y/TiagoBorba013?style=for-the-badge&logo=git&label=COMMIT%20ACTIVITY&color=7C3AED" alt="Commit Activity"/>
+<img
+  src="https://img.shields.io/badge/STATUS-ACTIVE-00E5FF?style=for-the-badge&logo=github"
+  alt="Profile Status"
+/>
 
 <br><br>
 
-```text
+
 ╔════════════════════════════════════════════════════════════╗
 ║                    ACHIEVEMENT SYSTEM                     ║
 ╠════════════════════════════════════════════════════════════╣
 ║                                                            ║
 ║  ✓ INFORMATION SYSTEMS STUDENT                            ║
 ║  ✓ PUC MINAS                                               ║
+║  ✓ 2ND SEMESTER                                           ║
 ║  ✓ FRONT-END DEVELOPMENT                                  ║
 ║  ✓ BACK-END DEVELOPMENT                                   ║
-║  ✓ JAVASCRIPT                                             ║
+║  ✓ HTML / CSS / JAVASCRIPT                                ║
 ║  ✓ C#                                                     ║
 ║  ✓ DATABASE DEVELOPMENT                                   ║
 ║  ✓ GITHUB PROJECTS                                        ║
 ║  ✓ ALWAYS LEARNING                                        ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
-```
-
 </div>
 
 ---
