@@ -17,11 +17,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
-
-      # =========================
-      # GITHUB STATS
-      # =========================
+        uses: actions/checkout@v6
 
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
@@ -31,10 +27,6 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # =========================
-      # TOP LANGUAGES
-      # =========================
-
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -43,73 +35,53 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # =========================
-      # PROJECT CARDS
-      # =========================
-
-      - name: Generate Exercicio 1 Web Front End
+      - name: Generate Project 1
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
           options: username=TiagoBorba013&repo=Exercicio-1-web-front-end&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=7c3aed
-          path: profile/project-exercicio-1-web-front-end.svg
+          path: profile/project-1.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate Atividade 2 Front End
+      - name: Generate Project 2
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
           options: username=TiagoBorba013&repo=Atividade-2-fronte-end&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=7c3aed
-          path: profile/project-atividade-2-fronte-end.svg
+          path: profile/project-2.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate Atividade Semana 4
+      - name: Generate Project 3
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
           options: username=TiagoBorba013&repo=Atividae-semna-4-front-end&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=7c3aed
-          path: profile/project-atividade-semana-4.svg
+          path: profile/project-3.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate Sprint 1 TI
+      - name: Generate Project 4
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
           options: username=TiagoBorba013&repo=Sprint-1-TI&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=7c3aed
-          path: profile/project-sprint-1-ti.svg
+          path: profile/project-4.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate My Bingo Mixer
+      - name: Generate Project 5
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
           options: username=TiagoBorba013&repo=my-bingo-mixer&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=7c3aed
-          path: profile/project-my-bingo-mixer.svg
+          path: profile/project-5.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate Trabalho Pratico DIW
+      - name: Generate Project 6
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
           options: username=TiagoBorba013&repo=Trabalho-Pr-tico-DIW&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=7c3aed
-          path: profile/project-trabalho-pratico-diw.svg
+          path: profile/project-6.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
-      # =========================
-      # ACTIVITY GRAPH
-      # =========================
-
-      - name: Generate Activity Graph
-        uses: maurodesouza/github-readme-activity-graph-action@v1
-        with:
-          username: TiagoBorba013
-          options: bg_color=050505&color=00e5ff&line=7c3aed&point=ffffff&area_color=050505&area=true&hide_border=true&custom_title=TIAGO%20SOUSA%20DE%20BORBA%20%E2%80%94%20ACTIVITY%20MATRIX
-          output_path: profile/activity-graph.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      # =========================
-      # COMMIT ALL GENERATED FILES
-      # =========================
 
       - name: Commit generated cards
         run: |
